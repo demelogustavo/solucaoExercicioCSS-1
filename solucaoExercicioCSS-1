@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        body {
+            background-color: rgb(56, 49, 49);
+        }
+        div {
+        border: 9px solid yellow;
+        background-color: white;
+        text-align: center;
+        margin: 8px 570px 8px ;
+        padding: 11px;
+        }
+    </style>
+</head>
+
+<body>
+    <div>Cícero</div>
+    <div>Prático</div>
+    <div>Heitor</div>
+</body>
+
+
+</html>
